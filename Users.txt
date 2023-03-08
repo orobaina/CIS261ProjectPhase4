@@ -1,2 +1,2 @@
-UserName|UsePwd|Admin
-UserName1|UserPwd1|User
+UserName|UserPwd|Admin
+UserName2|UserPwd2|User
